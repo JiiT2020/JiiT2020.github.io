@@ -1,75 +1,4 @@
-
-export const unwantedWords =  ['adult graphics magazine', 'aikuisviihde', 'anni swan', 'anu ja antti', 'aselajitunnu', 'bigtits', 'blu ray',
-    'Blue Climax', 'blu-ray', 'blue ray', 'busen', 'busty', 'classic rock', 'classis rock','club international', 'color climax', 'cummers', 
-    'C-kasetti', 'Dallapé', 'dvd', 'enchanted world', 'erotica', 'erotiikan maailma', 'erämies', 'evankeliumi',
-    'expose', 'fetissi', 'foxy lady', 'haloo', 'harlekin', 'harlequin', 'high society', 'hihamerkk', 'hustler', 'Intim månad', 'jallu', 'jermu', 'jewish', 'juggs',
-    'kalle', 'kallu', 'kangasmerkki', 'kartanosarja', 'kauluslaatat', 'keltainen kirjasto', 'keräilylautanen', 'kristuks', 'kristus', 'kuuma rakkaus', 'käsityö', 'käsitöitä', 'käyttöohje', 'laivavalokuva',
-    'lapsikohtalo', 'leg sex', 'lollo', 'manga', 'matkailijayhdisty', 'matkailuviiri', 'mayfair', 'men only', 'milf', 'modelljahr',
-    'napakymppi', 'neuvostoliit', 'novitaa', 'penthouse', 'pirate', 'playboy', 'pleasure', 'private', 'pukukoru', 'raamat', 'ratto', 'rintakoru', 'rodox',
-    'saab', 'sarah young', 'seinälautanen', 'seksi', 'seurakun', 'sex weekend', 'Sexmagazine', 'Sigildar Sogur', 'signal', 'staviss', 'svärd', 'swank', 'sydänsarja', 
-    'tabu', 'tekniikan maailma', 'testament', 'tete-a-tete', 'tiekartta', 'tuuvan talli',
-    'uistin', 'uskonto', 'uusintapai', 'v8-magazine', 'vauhdin maailma', 'volvo', 'ympäristökartta', 'young & nasty']
-
-export const unwantedTominAntikvariaattiWords = [
-    'JÄNNÄ-JUSSI', 'KIPPARI KALLE 4/1955 - TIPSA JA TOTTI', 'pecos bill' ]
-
-export const unwantedZz66 = [
-    'huuli ', 'jymy-sarjat ', 'tex ', 'villi länsi' ]
-
-export const stripBuyNowItems = [
-
-    'avaruuden korkeajännitys',
-    'Avaruuden Tarzan',
-    'huuli ',
-    'james bond',
-    'joulumanteli',
-    'jouluparaati',
-    'judge dredd',
-    'juhlanumero',
-    'jymy ' /*HUOM! JYMY */,
-    'jymy-sarjat',
-    'kädet ylös' /* HUOM! KÄDET YLÖS */,
-    'lassi ja leevi',
-    'lucky luke', 
-    'mini-taskari',
-    'mokkeri',
-    'muumi ' /* HUOM! MUUMI */,
-    'nakke ',
-    'perry rhodan ',
-    'pikku riku',
-    'raf ',
-    'robin hood',
-    'roope setä ',
-    'roope-setä ',
-    /* 'roope-setä 6',
-    'roope-setä 7',
-    'roope-setä 8',
-    'roope-setä 09',
-    'roope-setä 12', */
-    'sarjakirja' /* HUOM! SARJAKIRJA */,
-    'Siivet ',
-    'taskarit',
-    'taskukirj' /* HUOM TASKUKIRJA/-JOJA/-T */,
-    'taskulehti',
-    'tenavat' /* HUOM! TENAVAT */,
-    'Teräsnyrkki ',
-    'tex willer',
-    'texas ',
-    'tintin ',
-    'tintti ',
-    'valerian' /* valerian */,
-    'villi länsi ',
-    'x-men',
-    'yoko tsuno',
-    
-    ' - 1980', // puree välilyönneillä yhteen Aku Ankka caseen
-    '1985', '1986', '1987', '1988', '1989', '199', '200', '201',
-    '/85', '/86', '/87', '/88', '/89', 
-    '/90', '/91', '/92', '/93', '/94', '/95', '/96', '/97', '/98', '/99',
-
-]
-
-export const unwantedHuutonetWords =  [ 
+[ 
     
     
     '1998', '1999', '2000', '2001',
@@ -92,5 +21,5 @@ export const unwantedHuutonetWords =  [
 'akim ', 'akira', 'Aku Ankan avaruusmatka', 'Aku Ankan Joulusukka', 'aku ankan juhla' /* 'aku ankan juhlakirja', 'Aku Ankan Juhlamarssi', 'aku ankan juhlasarjat' */, 'aku ankan karuselli', 
 'Aku Ankan kuva-albumi', 'Aku Ankan Lemmenkutsu', 'Aku Ankan Loma-albumi', 'Aku Ankan lyhyt oppimäärä',
 'aku ankan parhaat', 'AKU ANKAAN PARHAAT', 'aku ankan parhaita', 'Aku Ankan punainen kansio', '10 Aku Ankan taskaria 1970-luvulta, suurin osa ensipainoksia',
-'aku ankan riemukaruselli', 'Aku Ankan riippumatto', 'Aku Ankka sarjisekstra 15-20', 'ankan satasivuiset ', 'Aku Ankan Päistikka', 'aku ankan sompailut', 'AKU ANKAN TASKUKIRJOJA: TEEMA KIRJAT 52 KPL', 'aku ankan toivesarjat', 'Aku Ankan Täysosuma',
+'aku ankan riemukaruselli', 'Aku Ankan riippumatto', 'Aku Ankka sarjisekstra 15-20', 'ankan satasivuiset ', 'Aku Ankan Päistikka', 'aku ankan sompailut', 'AKU ANKAN TASKUKIRJOJA: TEEMA KIRJAT 52 KPL', 'aku ankan toivesarjat', 'Aku Ankan Täysosuma'
 ]
