@@ -1,17 +1,13 @@
-[ 
-    
-    
-    '1998', '1999', '2000', '2001',
+['1998', '1999', '2000', '2001',
     '2008', '2009', '2010', '2011', '2012', '2014', '2015', '2016',
     '2020', '2021', '2099',
     'cowboy', 'historia', 'hymy', 'jippo', 'juhlakirja', 'jumbo', 'kamut ', 'katso ', 'kädet ylös ',
     'natasa', 'nemi ', 'PEKKA LIPPONEN', 'Pekka Lipposen seikkailuja', 'Robin Hood', 'viidakko ', 'älli ja tälli',
-    
+
     //temp
     'o 8 / 1957',  // vahetuksen revennyt pecos bill
     'alkuperäisteos 19', 'Muumikirja Muumipapan Urotyöt, 60-lvl.', // eurokaverin ruotsinkieliset muumit
     //temp
-    
     '007 JA LUPA TAPPAA', '1000pyörä', '101 dalmatiankoiraa', '2.painos', '2. painos', '3. painos', '4 Ässää ', '516 sivua, irtosivuina', '7 päivää', '7-päivää', 'an 6/1956' /* huom. 91:an */, 'aale tynni', 'Aallas Arvo', 'aaltonen', 'Aapinen Kustaa Kuusela', 'aapo kukko', 'Aapo Rapi',
 'aardenburg', 'aarne ankka', 'aaro honka', 'aaro liukko', 'aarresaari', 'Aarteenetsijäin Aatelia', 'aarteiden kirja', 'Aavikon Korkeajännitys',
 'acerdi', 'ACHERONIN NOITAKUNINGATAR', 'Ackermann', 'action foce', 'action force', 'Adam Sarlech', 'Adams, Scott', 'adolfsson', 'ADVENTURES OF TINTIN', 'Aedenan puutarhat', 'agaton sax', 'agent x9',
