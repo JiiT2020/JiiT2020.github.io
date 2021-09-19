@@ -1,4 +1,4 @@
-['1998', '1999', '2000', '2001',
+{'1998', '1999', '2000', '2001',
     '2008', '2009', '2010', '2011', '2012', '2014', '2015', '2016',
     '2020', '2021', '2099',
     'cowboy', 'historia', 'hymy', 'jippo', 'juhlakirja', 'jumbo', 'kamut ', 'katso ', 'kädet ylös ',
@@ -18,4 +18,4 @@
 'Aku Ankan kuva-albumi', 'Aku Ankan Lemmenkutsu', 'Aku Ankan Loma-albumi', 'Aku Ankan lyhyt oppimäärä',
 'aku ankan parhaat', 'AKU ANKAAN PARHAAT', 'aku ankan parhaita', 'Aku Ankan punainen kansio', '10 Aku Ankan taskaria 1970-luvulta, suurin osa ensipainoksia',
 'aku ankan riemukaruselli', 'Aku Ankan riippumatto', 'Aku Ankka sarjisekstra 15-20', 'ankan satasivuiset ', 'Aku Ankan Päistikka', 'aku ankan sompailut', 'AKU ANKAN TASKUKIRJOJA: TEEMA KIRJAT 52 KPL', 'aku ankan toivesarjat', 'Aku Ankan Täysosuma'
-]
+}
