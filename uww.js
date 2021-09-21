@@ -1,7 +1,7 @@
 
 // MUISTA AINA aakkosjärjestys (helpottaa ylläpitoa ja välttää tuplat)
 
-export const unwantedWords =  ['adult graphics magazine', 'aikuisviihde', 'anni swan', 'anu ja antti', 'aselajitunnu', 'bigtits', 'blu ray',
+const unwantedWords =  ['adult graphics magazine', 'aikuisviihde', 'anni swan', 'anu ja antti', 'aselajitunnu', 'bigtits', 'blu ray',
     'Blue Climax', 'blu-ray', 'blue ray', 'busen', 'busty', 'classic rock', 'classis rock','club international', 'color climax', 'cummers', 
     'C-kasetti', 'Dallapé', 'dvd', 'enchanted world', 'erotica', 'erotiikan maailma', 'erämies', 'evankeliumi',
     'expose', 'fetissi', 'foxy lady', 'haloo', 'harlekin', 'harlequin', 'high society', 'hihamerkk', 'hustler', 'Intim månad', 'jallu', 'jermu', 'jewish', 'juggs',
@@ -12,13 +12,13 @@ export const unwantedWords =  ['adult graphics magazine', 'aikuisviihde', 'anni 
     'tabu', 'tekniikan maailma', 'testament', 'tete-a-tete', 'tiekartta', 'tuuvan talli',
     'uistin', 'uskonto', 'uusintapai', 'v8-magazine', 'vauhdin maailma', 'volvo', 'ympäristökartta', 'young & nasty']
 
-export const unwantedTominAntikvariaattiWords = [
+const unwantedTominAntikvariaattiWords = [
     'JÄNNÄ-JUSSI', 'KIPPARI KALLE 4/1955 - TIPSA JA TOTTI', 'pecos bill' ]
 
-export const unwantedZz66 = [
+const unwantedZz66 = [
     'huuli ', 'jymy-sarjat ', 'tex ', 'villi länsi' ]
 
-export const stripBuyNowItems = [
+const stripBuyNowItems = [
 
     'avaruuden korkeajännitys',
     'Avaruuden Tarzan',
@@ -71,7 +71,7 @@ export const stripBuyNowItems = [
 
 ]
 
-export const unwantedHuutonetWords =  [ 
+const unwantedHuutonetWords =  [ 
     
     
     '1998', '1999', '2000', '2001',
