@@ -1,5 +1,10 @@
-'["1998", "1999", "2000", "2001",
-    "2008", "2009", "2010", "2011", "2012", "2014", "2015", "2016",
-    "2020", "2021", "2099",
-    "cowboy", "historia", "hymy", "jippo", "juhlakirja", "jumbo", "kamut ", "katso ", "kädet ylös ",
-    "natasa", "nemi ", "PEKKA LIPPONEN", "Pekka Lipposen seikkailuja", "Robin Hood", "viidakko ", "älli ja tälli"]'
+const unwantedWords =  ['adult graphics magazine', 'aikuisviihde', 'anni swan', 'anu ja antti', 'aselajitunnu', 'bigtits', 'blu ray',
+    'Blue Climax', 'blu-ray', 'blue ray', 'busen', 'busty', 'classic rock', 'classis rock','club international', 'color climax', 'cummers', 
+    'C-kasetti', 'Dallapé', 'dvd', 'enchanted world', 'erotica', 'erotiikan maailma', 'erämies', 'evankeliumi',
+    'expose', 'fetissi', 'foxy lady', 'haloo', 'harlekin', 'harlequin', 'high society', 'hihamerkk', 'hustler', 'Intim månad', 'jallu', 'jermu', 'jewish', 'juggs',
+    'kalle', 'kallu', 'kangasmerkki', 'kartanosarja', 'kauluslaatat', 'keltainen kirjasto', 'keräilylautanen', 'kristuks', 'kristus', 'kuuma rakkaus', 'käsityö', 'käsitöitä', 'käyttöohje', 'laivavalokuva',
+    'lapsikohtalo', 'leg sex', 'lollo', 'manga', 'matkailijayhdisty', 'matkailuviiri', 'mayfair', 'men only', 'milf', 'modelljahr',
+    'napakymppi', 'neuvostoliit', 'novitaa', 'penthouse', 'pirate', 'playboy', 'pleasure', 'private', 'pukukoru', 'raamat', 'ratto', 'rintakoru', 'rodox',
+    'saab', 'sarah young', 'seinälautanen', 'seksi', 'seurakun', 'sex weekend', 'Sexmagazine', 'Sigildar Sogur', 'signal', 'staviss', 'svärd', 'swank', 'sydänsarja', 
+    'tabu', 'tekniikan maailma', 'testament', 'tete-a-tete', 'tiekartta', 'tuuvan talli',
+    'uistin', 'uskonto', 'uusintapai', 'v8-magazine', 'vauhdin maailma', 'volvo', 'ympäristökartta', 'young & nasty']
